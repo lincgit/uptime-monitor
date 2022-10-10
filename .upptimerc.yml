@@ -11,9 +11,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: demo.upptime.js.org
   baseUrl: /uptime-monitor
-  logoUrl: https://github.com/lincgit/uptime-monitor/blob/06603694264f36317eb187b3b89536d2de37e793/assets/linc-logo.svg
+  logoUrl: https://raw.githubusercontent.com/lincgit/uptime-monitor/06603694264f36317eb187b3b89536d2de37e793/assets/linc-logo.svg
   name: Uptime Monitor - Linc
-  theme: dark
+  theme: night
   introTitle: "**Linc uptime monitor**"
 #   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
 #   navbar:
