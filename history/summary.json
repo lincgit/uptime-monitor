@@ -4,7 +4,7 @@
     "url": "https://www.linc.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.linc.nl.ico",
     "slug": "linc-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1664,
     "timeMonth": 1502,
     "timeYear": 1502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-01": 0
+    }
   }
 ]
