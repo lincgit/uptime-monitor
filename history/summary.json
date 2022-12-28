@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linc.nl.ico",
     "slug": "linc-nl",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 1442,
-    "timeDay": 887,
-    "timeWeek": 1359,
-    "timeMonth": 1445,
-    "timeYear": 1442,
+    "uptimeYear": "99.96%",
+    "time": 1433,
+    "timeDay": 668,
+    "timeWeek": 1147,
+    "timeMonth": 1434,
+    "timeYear": 1433,
     "dailyMinutesDown": {
       "2022-11-01": 51
     }
